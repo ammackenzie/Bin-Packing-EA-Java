@@ -15,7 +15,7 @@ public class SolveProblemBinPacking {
 	int numOfBins;
 	int binCapacity;
 	int population[][];
-    int binsCount[];	
+        int binsCount[];	
 	int maxIterations;
 	String inputFile;
 	String outputFile;
